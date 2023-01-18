@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp7
 {
-    internal class Manager : Member
-    { 
+    
+    class Manager : Member
+    {
+        
+        public string Department;
+
+        public void PrintManagerDetails()
+        {
+            var info = GetInfoInString();
+            info += "\nDepartment: " + Department;
+            Console.WriteLine(info);
+        }
     }
 }

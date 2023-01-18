@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp7
 {
-    internal class Employee : Member
+    public class Employee : Member
     {
+        public string Specialization;
+
+        public void PrintEmployeeDetails()
+        {
+            var info = GetInfoInString();
+            info += "\nspecialization: " + Specialization;
+            Console.WriteLine(info);
+        }
     }
 }

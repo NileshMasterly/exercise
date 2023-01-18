@@ -1,0 +1,15 @@
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\bin\Debug\net7.0\ConsoleApp8.exe
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\bin\Debug\net7.0\ConsoleApp8.deps.json
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\bin\Debug\net7.0\ConsoleApp8.runtimeconfig.json
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\bin\Debug\net7.0\ConsoleApp8.dll
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\bin\Debug\net7.0\ConsoleApp8.pdb
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ConsoleApp8.dll
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\refint\ConsoleApp8.dll
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ConsoleApp8.pdb
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ConsoleApp8.genruntimeconfig.cache
+C:\Users\NileshN\Desktop\exersice\exersice1_12_01\ConsoleApp8\obj\Debug\net7.0\ref\ConsoleApp8.dll
